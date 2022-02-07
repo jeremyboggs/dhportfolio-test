@@ -9,7 +9,11 @@ html,body {
   background: #fff09c;
 }
 
+#introduction {
+  display:none;
+}
+
 #introduction + p {
-  font-size: 120%;
+  font-size: 140%;
   line-height: 1.5em;
 }
