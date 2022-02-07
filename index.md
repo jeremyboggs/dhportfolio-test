@@ -5,21 +5,32 @@ title: Home
 
 ## Introduction
 
-Address potential readers, from Advisory Committee to future employers or colleagues. Introduce yourself and offer a brief narrative telling the story of your research interests and development as a person working with digital tools as well as other methods of your disciplines. You may write particular reflections on methods as part of
+Hello! I'm Jeremy Boggs, the Head of Research and Development in the Scholars' Lab, at the University of Virginia Library. My research interests include feminist interface design, explorations of history, culture, and identity in table-top role-playing games, especially Dungeons & Dragons.
 
 ## Projects
 
-Body of Portfolio: Exhibit all the DH projects that you’ve worked or collaborated on, including in course assignments (though as noted, the latter are not counted as Practicum hours). 
+### Practicum Project: 
 
-### The Practicum:
+![](assets/images/codespeak.png)
 
-a. An image and access in some form to the project (a link to the project website or GitHub page) and a brief description of the project and its significance.
-b. The student’s contribution to the project, and links to any blog posts you may have written about the project.
+[Speaking in Code](https://codespeak.scholarslab.org) Quis hoc dicit? Hoc non est positum in nostra actione. Immo videri fortasse. Atqui haec patefactio quasi rerum opertarum, cum quid quidque sit aperitur, definitio est.
 
 ### Coursework Projects
 
-Whether solo or collaborative, that relate to DH. Include a. and b. as stated for 1 in the Body of the Portfolio.
+![](assets/images/jeffersonsnotes.png)
+
+[Notes on the State of Virginia](https://notes.scholarslab.org)
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam quibus rebus efficiuntur voluptates, eae non sunt in potestate sapientis. Si autem id non concedatur, non continuo vita beata tollitur. Duo Reges: constructio interrete.
+
+![](assets/images/slaverycommission.png)
+
+[President's Commission on Slavery and the University](https://slavery.virginia.edu)
+
+Tamen a proposito, inquam, aberramus. Tertium autem omnibus aut maximis rebus iis, quae secundum naturam sint, fruentem vivere. Itaque hic ipse iam pridem est reiectus
 
 ### Any relevant written work
 
-For instance a researched seminar paper, that you wish to post rather than to publish with a journal (which would entail copyright). That said, you may decide that some of the projects you list should be simply described in words; these might include projects that you are not a leading collaborator for (it is not yours to “publish”), or preliminary plans for projects not yet prototyped.
+- "Lorem Ipsum Dolor Sit Amet"
+- "Duo Reges: constructio interrete."
+- "Nam quibus rebus efficiuntur voluptates"
