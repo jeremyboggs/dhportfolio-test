@@ -8,3 +8,8 @@ html,body {
   color: #333;
   background: #fff09c;
 }
+
+#introduction + p {
+  font-size: 120%;
+  line-height: 1.5em;
+}
