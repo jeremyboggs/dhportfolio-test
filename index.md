@@ -3,15 +3,10 @@ layout: default
 title: Home
 ---
 
-<div id="introduction">
-
 ## Introduction
 
 Hello! I'm Jeremy Boggs, the Head of Research and Development in the Scholars' Lab, at the University of Virginia Library. My research interests include feminist interface design, explorations of history, culture, and identity in table-top role-playing games, especially Dungeons & Dragons.
 
-</div>
-
-<div id="projects">
 ## Projects
 
 ### Practicum Project: 
@@ -33,8 +28,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam quibus rebus effici
 [President's Commission on Slavery and the University](https://slavery.virginia.edu)
 
 Tamen a proposito, inquam, aberramus. Tertium autem omnibus aut maximis rebus iis, quae secundum naturam sint, fruentem vivere. Itaque hic ipse iam pridem est reiectus
-
-</div>
 
 ## Relevant Writing
 
